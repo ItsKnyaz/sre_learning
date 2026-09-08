@@ -7,3 +7,4 @@
 - `git branch` — список веток
 - `git checkout` — переключение веток
 ## MAIN BRANCH
+## FEATURE BRANCH
