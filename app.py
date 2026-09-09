@@ -1,8 +1,8 @@
 def calculate(x, y):
-    return x + y
+    return x + y + 10
 
 def multiply(x, y):
-    return x * y
+    return x * y * 2
 
 def main():
     print(calculate(2, 3))
