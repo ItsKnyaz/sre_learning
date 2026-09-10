@@ -8,3 +8,4 @@
 - `git checkout` — переключение веток
 ## MAIN BRANCH
 ## FEATURE BRANCH
+Обновленно через веб-интерфейс GitHub
