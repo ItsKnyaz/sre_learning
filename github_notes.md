@@ -10,3 +10,5 @@
 ## Аутентификация
 - Пароль заменен на Personal Access Token (PAT)
 - Токен создается в Settings → Developer settings → Personal access tokens
+### .
+- секрет
